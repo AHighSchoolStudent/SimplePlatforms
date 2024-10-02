@@ -1,0 +1,26 @@
+.about {
+  position: absolute;
+  background: none;
+  color: whitesmoke;
+  border-color: white;
+  box-shadow: none;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.about:hover {
+  cursor: pointer;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+body {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  background: gray;
+  color: white;
+}
